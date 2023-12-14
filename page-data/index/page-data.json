@@ -124,7 +124,7 @@
                 },
                 "tech": ["TensorFlow.JS", "React"],
                 "github": "https://github.com/yashitanamdeo/face-landmark-detection",
-                "external": "https://yashitanamdeo.github.io/face-landmark-detection/"
+                "external": "https://bothdev.github.io/face-landmark-detection/"
               },
               "html": "<p>Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.</p>\n<p>Inspired by Nicholas Renotte's <a href=\"https://www.youtube.com/watch?v=7lXYGDVHUNw\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Youtube Tutorial</a>.</p>"
             }
@@ -211,7 +211,7 @@
                 "title": "Voter Registration WebApp",
                 "tech": ["HTML", "CSS"],
                 "github": "https://github.com/yashitanamdeo/Voter-Registration-WebApp",
-                "external": "https://yashitanamdeo.github.io/Voter-Registration-WebApp/"
+                "external": "https://bothdev.github.io/Voter-Registration-WebApp/"
               },
               "html": "<p>Project 4 under HTML-CSS Suven Coding Internship</p>"
             }
@@ -222,7 +222,7 @@
                 "title": "CSS Animation WebApp",
                 "tech": ["HTML", "CSS"],
                 "github": "https://github.com/yashitanamdeo/CSS-Animation-WebApp",
-                "external": "https://yashitanamdeo.github.io/CSS-Animation-WebApp/"
+                "external": "https://bothdev.github.io/CSS-Animation-WebApp/"
               },
               "html": "<p>Project 3 under HTML-CSS Suven Coding Internship</p>"
             }
@@ -233,7 +233,7 @@
                 "title": "Medium Blogging",
                 "tech": ["HTML", "CSS", "Javascript"],
                 "github": "https://github.com/yashitanamdeo/Medium-Blogging",
-                "external": "https://yashitanamdeo.github.io/Medium-Blogging/"
+                "external": "https://bothdev.github.io/Medium-Blogging/"
               },
               "html": "<p>Project 2 under Suven Coding Internship.</p>"
             }
@@ -244,7 +244,7 @@
                 "title": "365 Entertainment Movie WebApp",
                 "tech": ["HTML", "CSS", "Javascript"],
                 "github": "https://github.com/yashitanamdeo/365-entertainment-Movie-Webapp",
-                "external": "https://yashitanamdeo.github.io/365-entertainment-Movie-Webapp/"
+                "external": "https://bothdev.github.io/365-entertainment-Movie-Webapp/"
               },
               "html": "<p>Project 1 under Suven Coding Internship</p>"
             }
