@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://bothdev.github.io/sitemap.xml
+Host: https://bothdev.github.io
