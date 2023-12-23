@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'Facebook',
-      url: 'https://www.facebook.com/vorreakboth',
+      url: 'https://bothdev.github.io/',
     },
     {
       name: 'Instagram',

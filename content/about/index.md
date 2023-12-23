@@ -12,7 +12,7 @@ skills:
 
 Hello! I'm Vorreakboth Chhoeurn, from Phnom Penh.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I am a creative, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
 
 I am pursuing my Bachelors from [RUPP, Phnom Penh](https://www.rupp.edu.kh/) in Computer Science and Engineering (2015-2019)
 
