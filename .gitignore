@@ -8,4 +8,7 @@ package-lock.json
 /public
 .DS_Store
 
+# Uncomment this if you want to show your resume
+static/resume.pdf
+
 .vscode/
