@@ -25,24 +25,28 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 1. Install the Gatsby CLI
 
    ```sh
+   set NODE_OPTIONS=--openssl-legacy-provider
    npm install -g gatsby-cli
    ```
 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
+   set NODE_OPTIONS=--openssl-legacy-provider
    nvm install
    ```
 
 3. Install dependencies
 
    ```sh
+   set NODE_OPTIONS=--openssl-legacy-provider
    yarn
    ```
 
 4. Start the development server
 
    ```sh
+   set NODE_OPTIONS=--openssl-legacy-provider
    npm start
    ```
 
@@ -51,12 +55,14 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 1. Generate a full static production build
 
    ```sh
+   set NODE_OPTIONS=--openssl-legacy-provider
    npm run build
    ```
 
 1. Preview the site as it will appear once deployed
 
    ```sh
+   set NODE_OPTIONS=--openssl-legacy-provider
    npm run serve
    ```
 
